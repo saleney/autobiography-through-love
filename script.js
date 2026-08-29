@@ -215,7 +215,7 @@ const loss = [
   "Receiving a phone call on the way to my parents’ house that Grandpa had moved on. There was a rainbow.",
   "Receiving the call while I was at work that Richard, a dear friend of mine, had passed. I broke down in my classroom.",
   "Packing Mr. Bear and Mr. Sheep in a box.",
-  "Looking up at leaves fluttering on a tree and realized I couldn’t feel joy.",
+  "Looking up at leaves fluttering on a tree and realizing I couldn’t feel joy.",
 ];
 const thresholds = [
   ["KOREA", "My last minute decision to study abroad became the best decision of my life. That summer changed the way I interacted with the world."],
