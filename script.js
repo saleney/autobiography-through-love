@@ -205,8 +205,8 @@ const awe = [
 ];
 const adult = [
   "Being asked to be my friends’ child emergency contact",
-  "Working through a worksheet about consent with a child, and hearing him name me as one of his trusted adults",
-  "At the dentist, someone asked if I was the mom. For a second, I thought: Oh my God. I’ve reached the age where I could actually be someone’s mother. Somewhere along the way, I stopped being automatically mistaken for the big sister.",
+  "Being named one of a child’s trusted adults by the child on a worksheet about consent",
+  "Being mistaken for a mom three times in one week. The first time, I corrected them. The second time, I just nodded. The third time, I laughed and said, “Yeah.”",
 ];
 const loss = [
   "Meeting my endocrinologist for the first time that day, and her telling me I had cancer.",
