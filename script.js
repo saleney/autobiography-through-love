@@ -196,7 +196,7 @@ const rooms = [
 const awe = [
   "Seeing Paradise Meadow",
   "Eating uni at the Tsukiji Fish Market",
-  "The first time watching Inception and Black Swan in theater",
+  "The first time watching Black Swan in theater",
   "First time being high",
   "Horseshoe Bend in the morning",
   "Walking along the upper ridge of the Austrian Alps (Schmittenhohe)",
@@ -211,8 +211,8 @@ const adult = [
 const loss = [
   "Meeting my endocrinologist for the first time that day, and her telling me I had cancer.",
   "Waking up from surgery and taking the first pill I would need for the rest of my life. I understood, all at once, that my body had changed.",
-  "Waking up to the call that Grandpa had passed away. I took a shower. I never saw his body.",
-  "Receiving a phone call on the way to my parents’ house that Grandpa had moved on. There was a rainbow.",
+  "Waking up to the call that Grandpa had passed away. I took a shower and then went to the hospital. I never saw his body.",
+  "Receiving a phone call on the way to my parents’ house that Grandpa had moved on. There was a rainbow. I saw his body 10 minutes later lying in my childhood room.",
   "Receiving the call while I was at work that Richard, a dear friend of mine, had passed. I broke down in my classroom.",
   "Packing Mr. Bear and Mr. Sheep in a box.",
   "Looking up at leaves fluttering on a tree and realizing I couldn’t feel joy.",
