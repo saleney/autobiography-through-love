@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=DM+Mono&family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Space+Grotesk:wght@500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=DM+Mono&family=Cormorant+Garamond:ital,wght@0,400;0,500;0,700;1,400;1,500&family=Space+Grotesk:wght@500;700&display=swap");
 :root {
   --cream: #f2eee4;
   --paper: #faf8f1;
@@ -16,7 +16,7 @@ body {
   margin: 0;
   background: var(--paper);
   color: var(--ink);
-  font-family: "Fraunces", Georgia, "Times New Roman", serif;
+  font-family: "Cormorant Garamond", Georgia, "Times New Roman", serif;
   font-weight: 500;
 }
 button,
@@ -956,13 +956,13 @@ button {
   font-variation-settings: "opsz" 90;
 }
 .door-face b {
-  font-family: "Fraunces", Georgia, serif;
+  font-family: "Cormorant Garamond", Georgia, serif;
 }
 .sound {
-  font-family: "Fraunces", Georgia, serif;
+  font-family: "Cormorant Garamond", Georgia, serif;
 }
 .curatorial-note {
-  font-family: "Fraunces", Georgia, serif;
+  font-family: "Cormorant Garamond", Georgia, serif;
 }
 @media (prefers-reduced-motion: reduce) {
   * {
@@ -1085,3 +1085,20 @@ a:focus-visible {
     color: #c9aa6a;
   }
 }
+
+/* Personal archive edition. */
+:root{--cream:#f0efeb;--paper:#f6f3ed;--ink:#252622;--rust:#98553d}
+.opening{background:var(--cream);align-items:flex-start;text-align:left;padding-inline:8vw}
+.opening:before{inset:24px;border:0;border-left:1px solid #c6beb1}
+.opening h1{max-width:1000px;font-size:clamp(46px,8.5vw,120px);line-height:.98}
+.opening>.eyebrow{color:var(--rust)}
+.back{min-height:44px;display:inline-flex;align-items:center;border:0;border-bottom:1px solid #b8ad9d;border-radius:0;box-shadow:none;background:transparent;font:11px 'DM Mono',monospace;text-transform:none;letter-spacing:.02em;padding:0}
+.eyebrow,.entrance-note,.museum-nav a,.enter{font-family:'DM Mono',monospace;font-weight:400}
+.museum-nav{background:var(--paper);backdrop-filter:none}
+.museum-nav a{padding-block:12px}.museum-nav{padding-block:4px}
+.enter{color:var(--rust)}
+@media(max-width:600px){.opening{padding:110px 28px}.opening:before{inset:18px}.opening h1{font-size:clamp(40px,10vw,60px)}.back{left:28px;top:24px}.entrance-note{left:28px;bottom:28px}.moon{width:42px;height:42px;right:28px;top:100px}.moon:after{width:36px;height:36px}.museum-nav a{font-size:9px}}
+.opening{padding-top:130px;padding-bottom:150px}
+.opening h1{font-size:clamp(44px,6.3vw,90px);max-width:1100px}
+.opening:before{border-radius:0}
+@media(max-width:600px){.opening{padding-top:140px;padding-bottom:150px}.opening h1{font-size:clamp(32px,8.3vw,48px);overflow-wrap:normal}.opening .enter{margin-top:28px}}
