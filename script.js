@@ -97,13 +97,13 @@ const rooms = [
         name: "Inception · Snowpiercer",
         kind: "Films",
         memory:
-          "I used to watch Inception over and over again. I found Snowpiercer incredibly thought-provoking, although I don’t know if I could stomach watching it again. Even so, I know the plots of both films by heart.",
+          "I used to watch Inception over and over again. Snowpiercer stayed with me, although I don’t know if I could stomach watching it again. Even so, I know the plots of both films by heart.",
       },
       {
         name: "God of War",
         kind: "Video Game",
         memory:
-          "God of War is the only video game I’ve ever finished from beginning to end. I played it during COVID, and the storyline was incredible.",
+          "God of War is the only video game I’ve ever finished from beginning to end. I played it during COVID, and I became invested in the story.",
       },
     ],
   },
@@ -144,7 +144,7 @@ const rooms = [
         name: "Lassen Volcanic National Park",
         kind: "National Park",
         memory:
-          "I love Lassen for its peace, its beauty, and its incredible variety of geological features.",
+          "I love Lassen for its peace, its beauty, and how much the landscape changes as you move through it.",
       },
       {
         name: "Tennessee Valley Trail",
